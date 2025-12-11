@@ -99,18 +99,18 @@ The dataset used in this project is based on the **Online Retail** transactions.
 * Tracked customer retention based on first purchase month
 * Grouped data into cohort periods for comparison
 
-**SQL Script:** [Cohort Analysis.sql](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Retention%20Cohort%20Analysis.sql)
+**SQL Script:** [Cohort Analysis.sql](https://github.com/Tanim-code/SQL-Project/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Retention%20Cohort%20Analysis.sql)
 
-**Output:** [Retention Output](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Retention%20Output.csv)
+**Output:** [Retention Output](https://github.com/Tanim-code/SQL-Project/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Retention%20Cohort%20Analysis.sql)
 
 ### 💸 Customer Lifetime Value
 
 * Monthly revenue per customer
 * Aggregated revenue over cohort lifespan
 
-**SQL Script:** [CLV.sql](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Lifetime%20Value.sql)
+**SQL Script:** [CLV.sql](https://github.com/Tanim-code/SQL-Project/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Lifetime%20Value.sql)
 
-**Output:** [CLV Output](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Lifetime%20Value%20Output.csv)
+**Output:** [CLV Output](https://github.com/Tanim-code/SQL-Project/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Lifetime%20Value%20Output.csv)
 
 ---
 
@@ -123,7 +123,7 @@ The dataset used in this project is based on the **Online Retail** transactions.
 * CLV growth across months
 * Monthly cohort sales comparison
 
-[Excel Dashboard](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Cohort%20Analysis%20in%20Excel%20with%20SQL%20Output.xlsx)
+[Excel Dashboard](https://github.com/Tanim-code/SQL-Project/blob/main/Cohort%20Analysis%20using%20Snowflake/Customer%20Cohort%20Analysis%20in%20Excel%20with%20SQL%20Output.xlsx)
 
 ---
 
