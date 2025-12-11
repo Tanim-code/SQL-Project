@@ -92,7 +92,7 @@ The dataset used in this project is based on the **Online Retail** transactions.
 * Highest selling products
 * Monthly and daily sales trends
 
-**SQL Script:** [EDA.sql](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/Cohort%20Analysis%20using%20Snowflake/EDA%20questions%20%26%20solution.sql)
+**SQL Script:** [EDA.sql](https://github.com/Tanim-code/SQL-Project/blob/main/Cohort%20Analysis%20using%20Snowflake/EDA%20questions%20%26%20solution.sql)
 
 ### 👥 Cohort Analysis
 
